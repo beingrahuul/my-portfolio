@@ -13,7 +13,7 @@ const SocialLink = () => {
         <>Linkedin <FaLinkedin size={30} /></>
       ),
 
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/kartik-kumar-4656a5256/',
       style: 'rounded-tr-md'
     }
 
@@ -28,7 +28,7 @@ const SocialLink = () => {
         <>Github <FaGithub size={30} /></>
       ),
 
-      href: 'https://github.com',
+      href: 'https://github.com/Websterverse',
 
     }
     ,
@@ -53,7 +53,7 @@ const SocialLink = () => {
         <>Resume <BsFillPersonLinesFill size={30} /></>
       ),
 
-      href: '/RESUME.pdf',
+      href: '/Kartik.pdf',
       style: 'rounded-br-md',
       download: true
 
