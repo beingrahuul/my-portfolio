@@ -53,7 +53,7 @@ const SocialLink = () => {
         <>Resume <BsFillPersonLinesFill size={30} /></>
       ),
 
-      href: '/RESUME.pdf',
+      href: '/Kartik.pdf',
       style: 'rounded-br-md',
       download: true
 
