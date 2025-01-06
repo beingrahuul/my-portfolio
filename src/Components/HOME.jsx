@@ -19,14 +19,14 @@ const HOME = () => {
         className="home h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
       >
         <div className="main max-w-screen-lg mx-auto text-white flex flex-col items-center justify-center h-full px-4 md:flex-row">
-          <div className="flex  pt-28 flex-col h-full justify-center">
-            <h2 className="text-4xl font-bold sm:text-7xl text-white">
+          <div className="flex   pt-28 flex-col h-full justify-center">
+            <h2 className="text-4xl pt-16 font-bold sm:text-7xl text-white">
               I'M A FULL STACK WEB DEVELOPER
             </h2>
             <p className="text-gray-500 py-4 max-w-md">
-              I'M FRESHER AND BUILDING WEB SITES AND DESIGNS. CURRENTLY, I LOVE
-              TO WORK ON WEB APPLICATION USING TECHNOLOGIES LIKE REACT,
-              TAILWIND, NODEJS, AND EXPRESS JS
+
+I am a <b> passionate fresher </b> specializing in building <b> websites and modern designs </b>. My focus lies in developing <b>web applications </b> using cutting-edge technologies such as <b> React, Tailwind CSS, Node.js, and Express.js </b>. I’m driven by a love for creating intuitive, responsive, and scalable solutions that bring ideas to life.
+
             </p>
             <div>
               <Link
@@ -62,3 +62,7 @@ const HOME = () => {
 };
 
 export default HOME;
+
+
+
+

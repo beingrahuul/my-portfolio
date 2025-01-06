@@ -45,19 +45,17 @@ const SocialLink = () => {
 
     }
     ,
-    {
-      id: 4,
-
-      child: (
-
-        <>Resume <BsFillPersonLinesFill size={30} /></>
-      ),
-
-      href: '/Kartik.pdf',
-      style: 'rounded-br-md',
-      download: true
-
-    }
+ {
+    id: 4,
+    child: (
+        <>
+            Resume <BsFillPersonLinesFill size={30} />
+        </>
+    ),
+    href: '/MY_RESUME.pdf',
+    style: 'rounded-br-md',
+    download: true
+}
 
 
   ]
