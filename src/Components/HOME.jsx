@@ -24,7 +24,7 @@ const HOME = () => {
               I'M A FULL STACK WEB DEVELOPER
             </h2>
             <p className="text-gray-500 py-4 max-w-md">
-              I'M FRESHER AND BUILDING WEB SITES AND DESIGNS. CURRENTLY, I LOVE
+            HELLO  I'M FRESHER AND BUILDING WEB SITES AND DESIGNS. CURRENTLY, I LOVE
               TO WORK ON WEB APPLICATION USING TECHNOLOGIES LIKE REACT,
               TAILWIND, NODEJS, AND EXPRESS JS
             </p>
